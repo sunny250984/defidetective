@@ -1,0 +1,2 @@
+export const GET_PARTNER = "GET_PARTNER"
+export const SAVE_PARTNER = "SAVE_PARTNER"

@@ -1,0 +1,3 @@
+export const GET_TOKENS = "TOKEN_GET_TOKENS"
+export const SET_TOKENS = "TOKEN_SET_TOKENS"
+export const SAVE_TOKEN = "TOKEN_SAVE_TOKEN"

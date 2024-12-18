@@ -1,0 +1,29 @@
+.login-page{
+    .card-authentication1{
+        width: 24rem;
+        .card-title {
+            font-weight: 600;
+            font-size: 16px;
+            color: #ffffff;
+        }
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+        .form-group {
+            margin-bottom: 1rem;
+        }
+        .btn-light {
+            color: #fff;
+            background-color: rgba(255, 255, 255, 0.18);
+            border-color: rgba(255, 255, 255, 0.18);
+            width: -webkit-fill-available;
+        }
+    }
+}

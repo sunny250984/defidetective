@@ -1,0 +1,13 @@
+.dapps-page {
+  color: rgba(255, 255, 255, .85);
+  .actionBtn {
+    background: yellow;
+    font-weight: 700;
+    border-radius: 5px;
+  }
+
+  .actionBtn:hover {
+    box-shadow: 0 0 0.1em #fff, 0 0 0.2em #fff, 0 0 0.3em #fff, 0 0 0.4em #f5ea1a, 0 0 0.6em #e0f734, 0 0 0.8em #ebf705, 0 0 1em #e1f414, 0 0 1.2em #cde60f;
+  }
+}
+

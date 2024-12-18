@@ -1,0 +1,2 @@
+export const GET_ADVERTISE = "GET_ADVERTISE"
+export const SAVE_ADVERTISE = "SAVE_ADVERTISE"

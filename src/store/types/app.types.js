@@ -1,0 +1,2 @@
+export const SIDEBAR_SET = "APP_SIDEBAR_SET";
+export const SET_USER_INFO = "APP_SET_USER_INFO";
